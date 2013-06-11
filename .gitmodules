@@ -1,0 +1,3 @@
+[submodule "modules/SimplePHPBench"]
+	path = modules/SimplePHPBench
+	url = git@github.com:headhsu2568/SimplePHPBench.git
